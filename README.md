@@ -8,4 +8,4 @@
 [![Operating Systems I've used](https://skillicons.dev/icons?i=arch,linux,windows,mint)](https://skillicons.dev)
 
 # My Software
-[![My Skills](https://skillicons.dev/icons?i=codepen.git,github,neovim,robloxstudio,sublime,unity,unreal,visualstudio,vscode,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=codepen.git,github,neovim,robloxstudio,sublime,unity,unreal,visualstudio,vscode)](https://skillicons.dev)
