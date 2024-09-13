@@ -1,8 +1,8 @@
-# I'm ApplePieCodes!
-![ApplePieCodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=ApplePieCodes&theme=merko&show_icons=true&hide_border=false&count_private=true)
+# Yo, I'm ApplePieCodes
+## I make stuff. I work on a lot of projects, But my main project as of last update is my programming languge named Xenon.
 
+# My Languages
+[![My Languages](https://skillicons.dev/icons?i=c,cs,css,py,rust)](https://skillicons.dev)
 
-![ApplePieCodes' most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ApplePieCodes&theme=merko&show_icons=true&hide_border=false&layout=compact)
-
-
-![ApplePieCodes' commit streak](https://github-readme-streak-stats.herokuapp.com/?user=ApplePieCodes&theme=merko&hide_border=false)
+# My Operating Systems
+[![My Operating Systems](https://skillicons.dev/icons?i=arch,linux,windows)](https://skillicons.dev)
