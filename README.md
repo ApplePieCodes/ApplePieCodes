@@ -12,5 +12,5 @@
 
 'Help I took my 2DS apart and can't put it back together' Me, 2023
 
-![Bird Person's GitHub stats](https://github-readme-stats.vercel.app/api?username=applepiecodes)
+![Bird Person's GitHub stats](https://github-readme-stats.vercel.app/api?username=applepiecodes)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=applepiecodes&layout=pie)
