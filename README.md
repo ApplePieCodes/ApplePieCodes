@@ -9,3 +9,8 @@
 
 # My Software
 [![My Skills](https://skillicons.dev/icons?i=codepen,git,github,neovim,robloxstudio,sublime,unity,unreal,visualstudio,vscode,deno,nodejs)](https://skillicons.dev)
+
+'Help I took my 2DS apart and can't put it back together' Me, 2023
+
+![Bird Person's GitHub stats](https://github-readme-stats.vercel.app/api?username=applepiecodes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=applepiecodes&layout=pie)
