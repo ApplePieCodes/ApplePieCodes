@@ -14,3 +14,4 @@
 
 ![Bird Person's GitHub stats](https://github-readme-stats.vercel.app/api?username=applepiecodes)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=applepiecodes&layout=pie)
+![Bird Person's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApplePieCodes)
