@@ -16,4 +16,4 @@
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=applepiecodes&layout=pie&theme=merko&custom_title=Languages%20I%20Tolerate%20The%20Most)<br>
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApplePieCodes&theme=merko&custom_title=Time%20Wasted)<br>
 
-![Music Playlist if anyone wants it](https://music.youtube.com/playlist?list=PLXRPSzuu_0CzZ1evRL3L8QkBwuQTpVXxD)<br>
+<a href="https://music.youtube.com/playlist?list=PLXRPSzuu_0CzZ1evRL3L8QkBwuQTpVXxD">Music Playlist If anyone wants it</a><br>
