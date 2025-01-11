@@ -13,7 +13,6 @@
 'Help I took my 2DS apart and can't put it back together' - Alula, 2023
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=applepiecodes&theme=merko&custom_title=Report%20Card)<br>
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=applepiecodes&layout=pie&theme=merko&custom_title=Languages%20I%20Tolerate%20The%20Most)<br>
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApplePieCodes&theme=merko&custom_title=Time%20Wasted)<br>
 
 <a href="https://open.spotify.com/embed/playlist/5Cxb7ZPQtg6MlHmBJr4tVD?utm_source=generator">My music playlist if anyone wants it.</a>
