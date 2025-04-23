@@ -10,6 +10,9 @@
 # My Software
 [![My Skills](https://skillicons.dev/icons?i=codepen,git,github,neovim,robloxstudio,sublime,unity,unreal,visualstudio,vscode,deno,nodejs)](https://skillicons.dev)
 
+# My Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=applepiecodes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 'Help I took my 2DS apart and can't put it back together' - Alula, 2023
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=applepiecodes&theme=merko&custom_title=Report%20Card)<br>
