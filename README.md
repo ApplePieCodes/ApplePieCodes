@@ -2,7 +2,7 @@
 ## I make stuff becuase what else would a neurodivergent person do with their time. I work on a lot of projects, But my main project as of last update is my programming languge named Xenon.
 
 # My Languages
-[![My Languages](https://skillicons.dev/icons?i=c,cs,css,py,rust,html,js,ts,svelte)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,css,py,rust,html,js,ts,svelte)](https://skillicons.dev)
 
 # Operating Systems I've used
 [![Operating Systems I've used](https://skillicons.dev/icons?i=arch,linux,windows,mint)](https://skillicons.dev)
