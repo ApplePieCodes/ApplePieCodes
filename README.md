@@ -1,4 +1,4 @@
-# Yo, I'm Bird Person
+# Yo, I'm Alula
 ## I make stuff becuase what else would a neurodivergent person do with their time. I work on a lot of projects, But my main project as of last update is my programming languge named Xenon.
 
 # My Languages
