@@ -5,7 +5,7 @@
 [![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,css,py,rust,html,js,ts,svelte)](https://skillicons.dev)
 
 # Operating Systems I've used
-[![Operating Systems I've used](https://skillicons.dev/icons?i=arch,linux,windows,mint)](https://skillicons.dev)
+[![Operating Systems I've used](https://skillicons.dev/icons?i=arch,linux,windows,mint,macos)](https://skillicons.dev)
 
 # My Software
 [![My Skills](https://skillicons.dev/icons?i=codepen,git,github,neovim,robloxstudio,sublime,unity,unreal,visualstudio,vscode,deno,nodejs)](https://skillicons.dev)
