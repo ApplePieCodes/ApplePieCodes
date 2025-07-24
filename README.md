@@ -1,5 +1,5 @@
 # Yo, I'm Alula
-## I make stuff becuase what else would a neurodivergent person do with their time. I work on a lot of projects, But my main project as of last update custom information transfer protocol named ADTP.
+## I make stuff becuase what else would a neurodivergent person do with their time. I work on a lot of projects.
 
 # My Languages
 [![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,css,py,rust,html,js,ts,svelte)](https://skillicons.dev)
